@@ -1,0 +1,24 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domachine/sudoku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domachine/sudoku/issues"
+  },
+  "homepage": "https://github.com/domachine/sudoku#readme",
+  "devDependencies": {
+    "prettier": "^2.8.0",
+    "typescript": "^4.9.3"
+  }
+}

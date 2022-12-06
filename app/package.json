@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash.escape": "^4.0.7",
+    "autoprefixer": "^10.4.13",
+    "css-loader": "^6.7.2",
+    "html-webpack-plugin": "^5.5.0",
+    "lodash.escape": "^4.0.1",
+    "mini-css-extract-plugin": "^2.7.2",
+    "postcss-loader": "^7.0.2",
+    "tailwindcss": "^3.2.4",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
